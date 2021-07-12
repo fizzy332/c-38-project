@@ -35,11 +35,11 @@ var edq;
 var backGroup;
 function preload(){
 
- bg=loadImage('images/Background.jpg')
-  car22=loadImage('images/Charizard.png')
-  team=loadImage('images/Teamrocket.png')
-car2=loadImage('images/fireball.png')
-edq=loadImage('images/gameOver.png')
+ bg=loadImage('Background.jpg')
+  car22=loadImage('Charizard.png')
+  team=loadImage('Teamrocket.png')
+car2=loadImage('fireball.png')
+edq=loadImage('gameOver.png')
 }
 
 function setup(){
